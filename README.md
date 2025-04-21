@@ -1,2 +1,3 @@
 # sush-dem
-this is my repo
+This is my first repo
+Author : Sushant Chaudhari
